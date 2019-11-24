@@ -1,0 +1,17 @@
+a =3
+b =9
+
+puts a
+puts b
+
+if a > b
+  puts "Найбольшее число" + a.to_s
+end
+
+if a < b
+  puts "Найбольшее число" + b.to_s
+end
+
+if a == b
+  puts "Оба числа равны"
+end

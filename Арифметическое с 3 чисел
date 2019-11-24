@@ -1,0 +1,12 @@
+a = 1
+b = 3
+c = 4
+
+puts a
+puts b
+puts c
+
+d = (a + b + c)/3
+
+puts "Среднее:" + d.to_s
+
